@@ -16,4 +16,4 @@ Deployment can be on a simple web server or local system
 
 ## How to Contribute
 
-Sample website with plenty of files for demos
+Please fork this repository and issue pull request...
